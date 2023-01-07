@@ -1,4 +1,4 @@
-# mikaelfilo-calculator
+# mikaelfilo-calculator Project
 
 Online simple calculator 📱
 
